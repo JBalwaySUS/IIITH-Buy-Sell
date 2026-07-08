@@ -1,4 +1,4 @@
-# mern-website
+# IIITH Buy-Sell
 
 This is a ecommerce website built using MERN stack. It is a full stack project. It has a frontend built using React, a backend built using Node.js and Express and a database built using MongoDB.
 
